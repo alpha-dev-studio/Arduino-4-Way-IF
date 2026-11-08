@@ -1,0 +1,33 @@
+# Arduino IDE build artifacts
+*.hex
+*.bin
+*.elf
+*.eep
+*.o
+*.a
+
+# Build output
+build/
+dist/
+out/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+
+# Serial monitor captures
+*.serial.txt
+*.monitor.txt
+
+# Temp/debug
+test.py
+test.hex
