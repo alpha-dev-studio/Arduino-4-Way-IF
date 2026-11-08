@@ -5,7 +5,7 @@ Connected to a PC over USB and to an ESC over its normal servo/signal wire, it l
 (for example a browser-based configurator using Web Serial) read, write and flash a **BLHeli_S** ESC without a flight
 controller in between.
 
-*IF YOU ARE JUST HERE TO KNOW THE PINOUTS AND FLASHING THE CODE YOU MAY COMMENCE TO THE [QUICK START GUIDE](#quick-start)* 
+*IF YOU ARE JUST HERE TO KNOW THE PINOUTS AND FLASHING THE CODE YOU MAY COMMENCE TO THE [QUICK START GUIDE](#quick-start) AND FOR PINOUT CLICK [here](#hardware).* 
 ```
   PC / browser                       Arduino Uno / Nano                       BLHeli_S ESC
  ┌───────────────────┐  USB serial  ┌──────────────────┐  D11 ── signal wire  ┌──────────────┐
