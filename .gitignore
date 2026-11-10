@@ -1,5 +1,7 @@
 # Arduino IDE build artifacts
 *.hex
+*.uf2
+*.map
 *.bin
 *.elf
 *.eep
