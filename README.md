@@ -346,10 +346,9 @@ tolerant, so connect only the signal wire and ground between the Pico and the ES
 
 #### Flash the Pico
 
-1. In the Arduino IDE, install the **Raspberry Pi Pico/RP2040** board package by Earle Philhower.
-2. Open the `pico_4way_IF` folder and open `pico_4way_IF.ino`.
-3. Select **Raspberry Pi Pico** or **Raspberry Pi Pico W**.
-4. Hold the BOOTSEL button while plugging in the USB cable, then upload.
+1. Get the latest zip from releases and extract it.
+2. Hold the BOOTSEL button and power the pico
+3. Grab the uf2 from the extracted zip and drap and drop it to the RPI-RP2 drive
 
 No libraries are needed beyond the Arduino-Pico core.
 
