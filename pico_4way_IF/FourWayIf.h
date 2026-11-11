@@ -14,7 +14,9 @@
 #include <stdbool.h>
 
 /* ===== Signal wire ===== */
-#define ESC_PIN             17               /* GP2 (physical pin 4). Any GPIO 0-28 works. */
+#ifndef ESC_SIGNAL_PIN
+#define ESC_SIGNAL_PIN     2               /* GP2 (physical pin 4). Any GPIO 0-28 works. */
+#endif
 
 /* ===== PC link ===== */
 #define PC_BAUD             38400UL         /* USB CDC ignores the baud rate; passed to Serial.begin() only */

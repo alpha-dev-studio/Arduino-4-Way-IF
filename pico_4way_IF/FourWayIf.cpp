@@ -317,7 +317,7 @@ void blheli_handle_command(uint8_t cmd, uint16_t addr, uint8_t *p, uint16_t plen
 void setup()
 {
     Serial.begin(PC_BAUD);
-    if (!esc_wire_begin(ESC_PIN)) {
+    if (!esc_wire_begin(ESC_SIGNAL_PIN)) {
         pinMode(LED_BUILTIN, OUTPUT);
         for (;;) {
             digitalWrite(LED_BUILTIN, HIGH); delay(100);
