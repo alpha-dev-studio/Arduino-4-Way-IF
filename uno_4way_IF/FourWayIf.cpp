@@ -1,3 +1,7 @@
+// Blheli-4-Way-IF
+// Copyright (C) 2026 alpha-dev-studio
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 /*
  * FourWayIf.cpp
  * BLHeli 4-way interface bridge: PC (4w-if, 38400 baud) <-> BLHeli_S bootloader (19200 baud, bit-banged on D11).

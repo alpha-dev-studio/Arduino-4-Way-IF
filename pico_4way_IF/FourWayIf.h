@@ -1,3 +1,7 @@
+// Blheli-4-Way-IF
+// Copyright (C) 2026 alpha-dev-studio
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 /*
  * FourWayIf.h
  * BLHeli 4-way interface (4w-if) bridge for Raspberry Pi Pico / Pico W (RP2040), Arduino-Pico core.

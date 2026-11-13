@@ -1,3 +1,7 @@
+// Blheli-4-Way-IF
+// Copyright (C) 2026 alpha-dev-studio
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 /*
  * EscWire.cpp
  * PIO half-duplex UART for the BLHeli_S signal wire.

@@ -1,3 +1,7 @@
+// Blheli-4-Way-IF
+// Copyright (C) 2026 alpha-dev-studio
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 /*
  * pico_4way_IF.ino
  * BLHeli 4-way interface for BLHeli_S ESCs on Raspberry Pi Pico / Pico W (Arduino-Pico core).

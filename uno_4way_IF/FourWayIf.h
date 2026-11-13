@@ -1,3 +1,7 @@
+// Blheli-4-Way-IF
+// Copyright (C) 2026 alpha-dev-studio
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 /*
  * FourWayIf.h
  * BLHeli 4-way interface (4w-if) bridge for Arduino Uno/Nano (ATmega328P, 16 MHz); also builds for Mega (ATmega2560).

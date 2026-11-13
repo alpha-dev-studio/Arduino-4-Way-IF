@@ -1,3 +1,7 @@
+// Blheli-4-Way-IF
+// Copyright (C) 2026 alpha-dev-studio
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 /*
  * EscWire.h
  * Half-duplex 19200 baud 8N1 UART on one GPIO, implemented with two RP2040 PIO state machines
